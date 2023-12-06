@@ -1,6 +1,6 @@
-from common_.utilities_.customLogger import *
+from common_.utilites_.customLogger import *
 from selenium.webdriver.support.events import AbstractEventListener
-from common_.utilities_.customLogger import logger
+from common_.utilites_.customLogger import logger
 
 
 class MyListener(AbstractEventListener):
